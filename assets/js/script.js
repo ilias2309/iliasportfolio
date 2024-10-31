@@ -102,31 +102,31 @@ const projects = [
         name: "Credit-Card-Clustering",
         desc: "Clustering credit cards is a data-driven technique used to group credit card customers into different segments based on their spending behavior, demographic information, or financial attributes. This is typically done to identify distinct customer profiles, tailor marketing strategies, manage risk, or optimize credit card offers.",
         image: "Banking card design",
-        codeLink: "https://github.com/STALPHA2708/Credit-Card-Clustering"
+        codeLink: "https://github.com/ilias2309/Credit-Card-Clustering"
     },
     {
         name: "AI VS Human",
         desc: "Detecting AI-generated content involves building a machine learning model that classifies text data. This project demonstrates expertise in handling imbalanced datasets, implementing robust classification models, and using both traditional machine learning techniques and deep learning frameworks to achieve accurate detection.",
         image: "AI VS HUMAN",
-        codeLink: "https://github.com/STALPHA2708/AI-Vs-Human"
+        codeLink: "https://github.com/ilias2309/AI-Vs-Human"
     },
     {
         name: "Impact of Activities on Academic Performance",
         desc: "This project investigates the effect of extracurricular activities on students' academic performance through data analysis and visualization. The study explores how students manage time between activities and academics. This project demonstrates my ability to collect, analyze, and interpret survey data using visualizations and statistical techniques.",
         image: "data",
-        codeLink: "https://github.com/STALPHA2708/ProjetIntegrer"
+        codeLink: "https://github.com/ilias2309/Pintegrer"
     },
     {
         name: "Face Landmarks Detection",
         desc: "This project focuses on detecting key facial landmarks, such as eyes, nose, mouth, and jawline, using CV and ML techniques. Applications include facial recognition, emotion analysis, augmented reality filters, and improving human-computer interaction. It demonstrates proficiency in leveraging AI for real-time facial feature analysis and tracking.",
         image: "landmarks",
-        codeLink: "https://github.com/STALPHA2708/FaceLandmarkDetection"
+        codeLink: "https://github.com/ilias2309/FaceLandmarkDetection"
     },
     {
         name: "Amazon Recommendation System",
         desc: "This project demonstrates how to build a recommendation system for Amazon-style product recommendations using Python. The system provides personalized recommendations based on product similarity and review scores, leveraging collaborative filtering techniques with minimal dependencies. Plus Fast API",
         image: "recomendation",
-        codeLink: "https://github.com/STALPHA2708/Amzon-RecSys"
+        codeLink: "https://github.com/ilias2309/Amzon-RecSys"
     }
   ];
   
