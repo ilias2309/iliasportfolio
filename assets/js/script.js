@@ -96,7 +96,7 @@ const projects = [
         name: "Churn Model",
         desc: "Customer churn is a significant issue for many businesses, and predicting churn can help companies take preventive actions. This project provides a web-based platform for predicting customer churn using a machine learning model. The platform is built using Streamlit, a popular Python framework for creating web applications with ease.",
         image: "A Smarter Way To Reduce Customer Churn", 
-        codeLink: "https://github.com/STALPHA2708/ChurnModel"
+        codeLink: "https://github.com/ilias2309/ChurnModel"
     },
     {
         name: "Credit-Card-Clustering",
